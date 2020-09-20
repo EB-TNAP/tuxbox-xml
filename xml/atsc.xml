@@ -54,31 +54,7 @@
 		<transponder frequency="641000000" modulation="6"/>
 		<transponder frequency="647000000" modulation="6"/>
 		<transponder frequency="653000000" modulation="6"/>
-		<transponder frequency="659000000" modulation="6"/>
-		<transponder frequency="665000000" modulation="6"/>
-		<transponder frequency="671000000" modulation="6"/>
-		<transponder frequency="677000000" modulation="6"/>
-		<transponder frequency="683000000" modulation="6"/>
-		<transponder frequency="689000000" modulation="6"/>
-		<transponder frequency="695000000" modulation="6"/>
-		<transponder frequency="701000000" modulation="6"/>
-		<transponder frequency="707000000" modulation="6"/>
-		<transponder frequency="713000000" modulation="6"/>
-		<transponder frequency="719000000" modulation="6"/>
-		<transponder frequency="725000000" modulation="6"/>
-		<transponder frequency="731000000" modulation="6"/>
-		<transponder frequency="737000000" modulation="6"/>
-		<transponder frequency="743000000" modulation="6"/>
-		<transponder frequency="749000000" modulation="6"/>
-		<transponder frequency="755000000" modulation="6"/>
-		<transponder frequency="761000000" modulation="6"/>
-		<transponder frequency="767000000" modulation="6"/>
-		<transponder frequency="773000000" modulation="6"/>
-		<transponder frequency="779000000" modulation="6"/>
-		<transponder frequency="785000000" modulation="6"/>
-		<transponder frequency="791000000" modulation="6"/>
-		<transponder frequency="797000000" modulation="6"/>
-		<transponder frequency="803000000" modulation="6"/>
+
 	</atsc>
 	<atsc name="ATSC Atlant,Ga. 8VSB" flags="1">
 		<transponder frequency="177000000" modulation="6"/>
